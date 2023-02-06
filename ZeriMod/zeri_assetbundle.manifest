@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1418846784
+CRC: 3680840919
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5a4331217d7e97cca7b46b008c0ad2ca
+    Hash: e5954440d9ba1638c04287cd97227fb7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0ff96ee0c2e51cad2def339b55c7c6e6
@@ -133,7 +133,6 @@ Assets:
 - Assets/HenryAssets/Textures/texBoxingGlove.png
 - Assets/HenryAssets/Zeri/mdlZeri.prefab
 - Assets/HenryAssets/Animation/maskAimYaw.mask
-- Assets/HenryAssets/Zeri/customanimations/RunFootSteps.anim
 - Assets/HenryAssets/Icons/texDanteAchievement.png
 - Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_r_missilehead01.dds
 - Assets/HenryAssets/Icons/texSecondaryIcon.png
@@ -145,7 +144,6 @@ Assets:
 - Assets/HenryAssets/Zeri/textures/zeri_spikedhair_tx_cm.dds
 - Assets/HenryAssets/Zeri/icons/zerip.png
 - Assets/HenryAssets/VFX/ImpactHenrySlash.prefab
-- Assets/HenryAssets/Zeri/customanimations/Jumping UP.anim
 - Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_r_chainlightning01.dds
 - Assets/HenryAssets/Zeri/VFX/Texture/ground_pool_erosion.dds
 - Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_hit01_vertical_core.dds
@@ -291,7 +289,6 @@ Assets:
 - Assets/HenryAssets/Icons/texBazookaIconScepter.png
 - Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_q_hitcircle.dds
 - Assets/HenryAssets/Zeri/VFX/Texture/jhin_skin05_r_cas_distort.dds
-- Assets/HenryAssets/Zeri/customanimations/Falling Idle.anim
 - Assets/HenryAssets/Textures/texHenryNeo.png
 - Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_w_electricity02_half.dds
 - Assets/HenryAssets/Zeri/icons/zeri_circle_0.png
@@ -344,7 +341,6 @@ Assets:
 - Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_noise01.dds
 - Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_er_missilehead.dds
 - Assets/EffectExamples/FireExplosionEffects/Prefabs/TorchEffect.prefab
-- Assets/HenryAssets/Zeri/customanimations/RunHasteFootsteps.anim
 - Assets/HenryAssets/Zeri/VFX/Texture/sparks.dds
 - Assets/HenryAssets/Mesh/meshHenrySword.mesh
 - Assets/HenryAssets/VFX/Materials/matEmbers.mat
@@ -413,7 +409,6 @@ Assets:
 - Assets/HenryAssets/Animation/clips/Descend.anim
 - Assets/HenryAssets/Textures/texHenryDante.png
 - Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_e_shell_rgb.dds
-- Assets/HenryAssets/Zeri/customanimations/punch.anim
 - Assets/EffectExamples/FireExplosionEffects/Prefabs/SmallExplosionEffect.prefab
 - Assets/HenryAssets/Zeri/VFX/Texture/jayce_skin05_w_lightning03.dds
 - Assets/HenryAssets/Zeri/VFX/Texture/zeri_base_edgeglow.dds
